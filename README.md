@@ -40,7 +40,7 @@ AI Trip Planner is a smart travel application that generates a unique itinerary 
 * **AI Integration:** Google Gemini API for automated trip plan generation
 * **Workflow:** Interaction between user panel, admin panel, and AI engine
 
-## FEATURES & FunctionalITIES ✨
+## FEATURES & FUNCTIONALITIES ✨
 
 * AI-generated personalized trip plans
 * **User Panel:** Create trips, view recommendations, update profile, submit reviews
